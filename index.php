@@ -57,6 +57,7 @@ function getClientHeaders(){
     ** end cookie **
 	-->
 	<h1>Device Profile</h1>
+    <p><a href="http://github.com/bryanrieger/profile">Source available on Github</a></p>
 	<?php
 		echo "<h2>UA String</h2>";
 		echo "<dl>";
